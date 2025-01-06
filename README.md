@@ -1,1 +1,1 @@
-# S-P-500-Financial-Insights
+# SP500-Financial-Insights
